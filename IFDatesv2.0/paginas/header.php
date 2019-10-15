@@ -27,10 +27,19 @@
                     <a href="sobre.php" class="link"> Sobre o site </a>
                 </div>
             </div>
-            <div class="col nove">
+            <div class="col oito">
                 <div class="menu">
 
                 </div>
+            </div>
+            <div class="col um imagem">
+                <a href="sobre.php"> 
+
+                            <img src="../imagens/erased.png"
+                                 alt="logo.png"
+                                 height="45" width="48">       
+
+                </a> 
             </div>
         </div>
     </body>
