@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/09/2019, 15:54:03
+    Author     : Samara Lellis
+*/
+
+.direita_cubo{
+    height: 700px;
+    background-color: #1E90FF;
+}
+.titulo_cubo{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.texto_cubo{
+    font-size: 20px;
+    margin-left: 5px;
+    text-align:justify;
+    margin-right: 5px;
+}
+.top_capa{
+    background-color: #F08080;
+    
+}
+.top_cabecalho{
+    background-color: #F08080;
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+    height: 202px;
+    padding-top: 50px;
+    color: white;
+}
+.top_corpo{
+    background-color: #FFEFD5;
+    height: 600px;
+}
+.capa{
+    width: 100%;
+}
+.cine_body{
+    background-color: #4169E1;
+    height: 800px;
+}
+.voltapc_body{
+    background-color: #00FA9A;
+    height: 800px;
+}
+.tabus_body{
+    background-color:#FA8072;
+    height: 800px;
+}
+.qualifica_body{
+    background-color: #FF0000;
+    height: 800px;
+}
+.contacao_body{
+    background-color: #9932CC;
+    height: 800px;
+}
+.capa_cafe{
+    width: 100%;
+    margin-top: 30px;
+
+}
+.cafe_corpo{
+    background-color: #4682B4;
+    height: 800px;
+    margin-left: 30px;
+}

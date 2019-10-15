@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/09/2019, 11:14:43
+    Author     : 20161inf_i0303
+*/
+
+
+.header{
+    
+    font-size: 40px;
+    text-align: center;
+    background-color: #1E90FF;
+    padding-top: 40px;
+    height: 146px;
+   
+}
+.menu{
+    background-color: #1E90FF;
+    height: 405px;
+}
+.meio{
+
+    background-color: #1E90FF;
+}
+.direita{
+    height: 405px;
+    background-color: #1E90FF;
+}
+/*
+Até aqui são configurações do fundo.
+*/
+
+
+.fundo_meio{
+    background-color: #1E90FF;
+}
+footer{
+    height: 104px;
+    background-color: #87CEFA;
+}
+.an_footer{
+    background-color: #1E90FF;
+    height: 100px;
+}
+.link_mp{
+    font-size: 20px;
+    color: black;
+    margin-left: 40px;
+}
+.voltar{
+    text-align: center;
+}

@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26/07/2019, 08:07:59
+    Author     : 20161inf_i0222
+*/
+
+.color{
+    background-color: #FF1493;
+}
+.imagem{
+    display: block;
+    align-items: center;
+    padding-right: 200px;
+    margin-right: 10px;
+    
+}
+.cabecalho{
+    margin-top: 0px;
+    background-color: #FF1493; 
+    height: 100px;
+    padding-top: 15px;
+}
+.cabecalho2{
+    display: block;
+    color: white;
+    text-align: center;
+    background-color: #FF1493;
+    font-size: 40px;
+    margin-top: 15px;
+}
+.menu{
+    font-size: 20px;
+    border: 2px solid #FF1493;
+    text-align: center;
+    display: block;
+    margin-left: 0px;
+    background-color: #FF69B4;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.itens{
+    font-size: 20px;
+    margin-left: 0px;
+    text-align: center;
+    display: block;
+    background-color: #FF1493;
+    margin-top: 0px;
+    
+    
+}
+.texto{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.titulo{
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+.fundo{
+    background-color: #FF69B4;
+    display: block;
+    margin-left: 0px;
+    margin-top: 0px;
+   
+   
+}
+.fundo2{
+    background-color: #FFC0CB;
+    display: block;
+    margin-left: 0px;
+    
+}
+
+#id_nome{
+    margin-left: 5px;
+    font-size: 15px;
+}
+#id_email{
+    margin-left: 5px;
+    font-size: 15px;
+}
+#id_matricula{
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+#id_senha{
+    margin-left: 5px;
+    font-size: 15px;
+}
+#id_confsenha{
+    margin-left: 5px;
+    font-size: 15px;
+}
+.button{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.imagem_projeto{
+    margin-left: 5px;
+    padding-left: 5px;
+}
+.direita{
+    height: 804px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+
+    background-color: #FF1493;
+}
+.rodape{
+    height: 198px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #FF1493;
+}
+.resto{
+    height: 721px;
+    background-color: #FF1493;
+}
+.rodape2{
+    height: 197px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #FF69B4;
+}
+
+
+.rodape_cadastro{
+    height: 97px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #FF1493;
+}
+.rodape_index{
+    height: 62px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #FF1493;
+}
