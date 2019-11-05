@@ -28,3 +28,22 @@ and open the template in the editor.
     text-align: center;
     padding-top: 2px;
 }
+.rodape{
+    background-color: #1C1C1C;
+    height: 150px;
+}
+.redes{
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    font-family:cursive;
+}
+.espaco{
+    height: 80px;
+}
+.link2{
+    color: tomato;
+    font-size: 15px;
+    font-family:cursive;
+}
