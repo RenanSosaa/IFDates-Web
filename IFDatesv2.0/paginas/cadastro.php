@@ -56,7 +56,7 @@ and open the template in the editor.
                     </div>
                 </section>
                 
-                <form id="id_formulario" name="id_formulario" action="cadastro.html" method="get" onsubmit="testeform">
+                <form id="id_formulario" name="id_formulario" action="menuprojetoscadastro.php" method="post" onsubmit="testeform">
                 <section class="fundo">
                     <label for="id_nome" class="titulo">Nome completo</label><br/>  
                     <input id="id_nome"
@@ -119,11 +119,8 @@ and open the template in the editor.
                        name="redefinir"
                        value="Redefinir"/>
                 
-                <input class="button"
-                       type="button"
-                       name="Enviar"
-                       value="Enviar"
-                       onclick="testeform()"
+                 <input type="submit"
+                       value="Enviar" 
                        /> 
                 </section>
                 
@@ -162,3 +159,4 @@ and open the template in the editor.
        <script src="../scripts/funcoes.js"></script>
     </body>
 </html>
+
