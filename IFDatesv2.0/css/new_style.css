@@ -7,43 +7,33 @@ and open the template in the editor.
     Created on : 15/09/2019, 19:48:29
     Author     : Samara Lellis
 */
-.header{
-    background-image: url(../imagens/agrvai.jpg);
-    text-align: center;
-    color:crimson;
-    height: 200px;
-    padding-top: 65px;
-    font-family: fantasy;
-    font-size: 50px;
-        
-}
+
+
 .menu{
  
     font-size: 20px;
     text-align: center;
     height: 40px;
-    background-image: url(../imagens/agrvai.jpg);
+    background-image: url(../imagens/img_fundo.jpg);
     padding-top: 5px;
 }
 .link{
-    color: black;
+    color: white;
     
 }
 .parte1{
-    background-color: #7FFFD4;
+    background-color: #331954;
     padding: 10px;
     font-size: 20px;
     text-align: center;
+    color: white;
 }
-.parte2{
-    background-image: url(../imagens/agrvai.jpg);
 
-}
 .introducao{
 
     text-align:justify;
     font-size: 30px;
-    color: black;
+    color: white;
     padding: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -112,4 +102,7 @@ and open the template in the editor.
     text-align: center;
     font-size: 20px;
     margin-top: 100px;
+}
+.capa_sol{
+    width: 100%;
 }
