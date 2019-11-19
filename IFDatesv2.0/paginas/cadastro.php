@@ -160,4 +160,4 @@ and open the template in the editor.
        <script src="../scripts/funcoes.js"></script>
     </body>
 </html>
-     ,0
+     
