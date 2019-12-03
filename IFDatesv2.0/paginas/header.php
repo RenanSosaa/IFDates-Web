@@ -24,12 +24,12 @@
                     <a href="cadastro.php" class="link_h"> Cadastre-se </a>
                 </div>
             </div>
-            <div class="col dois">
+            <div class="col um">
                 <div class="menuh">
-                    <a href="sobre.php" class="link_h"> Conheça os desenvolvedores </a>
+                    <a href="sobre.php" class="link_h"> Perfil</a>
                 </div>
             </div>
-            <div class="col seis">
+            <div class="col sete">
                 <div class="menuh">
 
                 </div>
