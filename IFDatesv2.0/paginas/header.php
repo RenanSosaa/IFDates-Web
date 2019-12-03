@@ -26,7 +26,7 @@
             </div>
             <div class="col um">
                 <div class="menuh">
-                    <a href="sobre.php" class="link_h"> Perfil</a>
+                    <a href="perfil.php" class="link_h"> Perfil</a>
                 </div>
             </div>
             <div class="col sete">
