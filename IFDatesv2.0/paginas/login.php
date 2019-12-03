@@ -9,11 +9,15 @@ and open the template in the editor.
     <div class="row espaco">
 
     </div>
+    <div class="row espaco">
+
+    </div>
     <div class="row">
 
         <div class="col quatro espaco">
 
         </div>
+
 
         <div class="col quatro">
             <div class="titulo_login">Login</div>
@@ -43,19 +47,19 @@ and open the template in the editor.
 
         </div>
         <div class="col quatro">
-           
-                <label for="id_senha" class="login_senha">Senha</label>
-                <input id="id_senha2"
-                       placeholder="Digite sua senha..."
-                       type="password"
-                       name="senha"
-                       required /> 
-            
+
+            <label for="id_senha" class="login_senha">Senha</label>
+            <input id="id_senha2"
+                   placeholder="Digite sua senha..."
+                   type="password"
+                   name="senha"
+                   required /> 
+
         </div>
     </div>   
     <div class="row">
-         
-        
+
+
         <div class="col quatro coluna_um">
 
         </div>
@@ -79,10 +83,10 @@ and open the template in the editor.
         </div>
     </div>
     <div class="row espaco">
-      
+
     </div>
     <div class="row espaco">
-      
+
     </div>
 </div>
 <script src="../scripts/funcoes.js"></script>
