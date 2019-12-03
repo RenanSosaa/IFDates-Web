@@ -50,9 +50,7 @@ and open the template in the editor.
 /* 
   Daqui para baixo é do login
 */
-.fundo_login{
-    background-image: url(../imagens/img_fundo.jpg);
-}
+
 .titulo_login{
     font-family:inherit;
     text-align: center;
@@ -122,4 +120,14 @@ and open the template in the editor.
     font-size: 20px;
     background-color: #331954;
     color:white;
+}
+.titulo{
+    color:white;
+    font-size: 30px;
+    
+}
+.texto{
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
 }
