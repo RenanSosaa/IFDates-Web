@@ -74,29 +74,25 @@ and open the template in the editor.
 .coluna_um{
     height: 50px;
 }
-#id_matricula{
+#id_matricula2{
     padding: 10px;
     margin-top: 30px;
     font-size: 20px;
     alignment-adjust:central;
 }
-#id_senha{
+#id_senha2{
     padding: 10px;
     font-size: 20px;
     alignment-adjust:central;
     margin-top: 30px;
     margin-left: 27px;
 }
-.button1{
-    margin-left: 140px;
+.button{
+    margin-left: 70px;
     margin-top: 40px;
     font-size: 20px;
-    background-color: #FF69B4;
-}
-.button2{
-    margin-top: 40px;
-    font-size: 20px;
-    background-color: #FF69B4;
+    background-color: #331954;
+    color:white;
 }
 .voltar{
     text-align: center;
@@ -105,4 +101,16 @@ and open the template in the editor.
 }
 .capa_sol{
     width: 100%;
+}
+.parte2{
+    background-image: url(../imagens/img_fundo.jpg);
+}
+/* 
+  Cadastro
+*/
+.campo{
+    font-size: 20px;
+}
+.espaco2{
+    height: 200px;
 }
