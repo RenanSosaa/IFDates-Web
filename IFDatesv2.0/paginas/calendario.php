@@ -1,31 +1,19 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <title>Calendário</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="../css/normaliza.css">
-        <link rel="stylesheet" href="../css/responsivo.css">
-        <link rel="stylesheet" href="../css/estilo_calendario.css">
-    </head>
-    <body class="fundo">
-        <div class="row">
-            <div class="cabecalho"> Calendário Interativo </div>
+
+<?php include_once 'header.php'; ?>
+<div class="row parte2">
+    <div class="row espaco2">
+
+
+    </div>
+
+    <div class="row">
+        <div class="col sete calendario">
+            Dezembro
         </div>
-        
-        <div class="row">
-            <div class="col sete calendario">
-                Setembro
-            </div>
-            <div class="col cinco direita">
-                
-            </div>
+        <div class="col cinco direita">
+
         </div>
+
         <div class="row">
             <div class="col um dias">D </div>
             <div class="col um dias">S </div>
@@ -35,7 +23,7 @@ and open the template in the editor.
             <div class="col um dias">S </div>
             <div class="col um dias">S </div>
         </div>
-        
+
         <div class="row">
             <div class="col um primeiro">1</div>
             <div class="col um segundo">2</div>
@@ -75,14 +63,18 @@ and open the template in the editor.
         <div class="row">
             <div class="col um primeiro">29</div>
             <div class="col um segundo">30</div>
-            <div class="col um terceiro"></div>
+            <div class="col um terceiro">31</div>
             <div class="col um quarto"></div>
             <div class="col um quinto"></div>
             <div class="col um sexto"></div>
             <div class="col um setimo"></div>
         </div>
-        <div class="row voltar">
-            <a href="index.php" > Voltar</a>
-        </div>
-    </body>
-</html>
+    </div>
+    <div class="row espaco2">
+
+
+    </div>
+</div>
+
+<?php include_once 'footer.php'; ?>
+
