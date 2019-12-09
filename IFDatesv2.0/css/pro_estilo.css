@@ -8,19 +8,17 @@ and open the template in the editor.
     Author     : Samara Lellis
 */
 
-.direita_cubo{
-    height: 700px;
-    background-color: #1E90FF;
-}
 .titulo_cubo{
     font-size: 30px;
     margin-bottom: 20px;
+    color:white;
 }
 .texto_cubo{
     font-size: 20px;
     margin-left: 5px;
     text-align:justify;
     margin-right: 5px;
+    color:white;
 }
 .top_capa{
     background-color: #F08080;
@@ -42,26 +40,7 @@ and open the template in the editor.
 .capa{
     width: 100%;
 }
-.cine_body{
-    background-color: #4169E1;
-    height: 800px;
-}
-.voltapc_body{
-    background-color: #00FA9A;
-    height: 800px;
-}
-.tabus_body{
-    background-color:#FA8072;
-    height: 800px;
-}
-.qualifica_body{
-    background-color: #FF0000;
-    height: 800px;
-}
-.contacao_body{
-    background-color: #9932CC;
-    height: 800px;
-}
+
 .capa_cafe{
     width: 100%;
     margin-top: 30px;
