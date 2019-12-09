@@ -131,3 +131,25 @@ and open the template in the editor.
     font-size: 20px;
     margin-left: 40px;
 }
+.button_perfil{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #331954;
+    color:white;
+    text-align: center;
+}
+.button_perfil2{
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #331954;
+    color:white;
+    text-align: center;
+}
+.texto_perfil{
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+    text-align: center;
+}
