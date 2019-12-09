@@ -12,6 +12,8 @@
         <link rel="stylesheet" href="../css/new_style.css">
         <link rel="stylesheet" href="../css/seg_estilo.css">
         <link rel="stylesheet" href="../css/estilo_calendario.css">
+        <link rel="stylesheet" href="../css/pro_estilo.css">
+
     </head>
     <body class="fundo_login">
         <div class="row">
